@@ -1,2 +1,1 @@
-"I love the letter A"
-(This is NOT true)
+I love the letter A
